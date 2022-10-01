@@ -6,7 +6,7 @@ import coinbase from "./coinbase.png";
 import dropbox from "./dropbox.png";
 import logo from "./logo.svg";
 import quotes from "./quotes.svg";
-import robot from "./robot.png";
+import Stock1 from "./Stock1.png";
 import send from "./Send.svg";
 import shield from "./Shield.svg";
 import star from "./Star.svg";
@@ -33,7 +33,7 @@ export {
   dropbox,
   logo,
   quotes,
-  robot,
+  Stock1,
   send,
   shield,
   star,
@@ -49,5 +49,6 @@ export {
   twitter,
   people01,
   people02,
-  people03,
+  people03
+  
 };
